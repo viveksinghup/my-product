@@ -1,0 +1,103 @@
+[{
+  "category": "yoga",
+  "categoryName": "yname",
+  "categoryImage": "asd",
+  "products": [{
+    "name": "p1",
+    "image": "p1Image",
+    "video": "video",
+    "price": 449,
+    "offerPrice": 349,
+    "tag": "Hot Picks",
+    "description": "sdsdsdsdf",
+    "title": "asdasdasd",
+    "subtitle": "asdasdasd",
+    "slots": {
+      "2021-06-20" : [7, 8, 9, 10],
+      "2021-06-22" : [12, 17, 18],
+      "2021-06-21" : [12, 17, 18]
+    }
+  },{
+    "name": "p2",
+    "image": "p2Image",
+    "price": 499,
+    "offerPrice": 399,
+    "tag": "Filling fast",
+    "description": "sdsdsdsdf",
+    "title": "asdasdasd",
+    "subtitle": "asdasdasd",
+    "slots": {
+      "2021-06-20" : [6, 8, 9, 11],
+      "2021-06-21" : [18, 19],
+      "2021-06-22" : [12, 17, 18]
+    }
+  }]
+ },{
+   "category": "cricket",
+   "categoryName": "cname",
+   "categoryImage": "asd",
+   "products": [{
+     "name": "c1",
+     "image": "c1Image",
+     "video": "video",
+     "price": 399,
+     "offerPrice": 349,
+     "tag": "Hot Picks",
+     "description": "sdsdsdsdf",
+     "title": "asdasdasd",
+     "subtitle": "asdasdasd",
+     "slots": {
+       "2021-06-21" : [12, 13, 14],
+       "2021-06-20" : [19, 20, 21],
+       "2021-06-22" : [12, 17, 18]
+     }
+   },{
+     "name": "c2",
+     "image": "c2Image",
+     "price": 349,
+     "offerPrice": 299,
+     "tag": "Filling fast",
+     "description": "sdsdsdsdf",
+     "title": "asdasdasd",
+     "subtitle": "asdasdasd",
+     "slots": {
+       "2021-06-21" : [16, 17, 18],
+       "2021-06-20" : [19, 20, 21],
+       "2021-06-22" : [12, 17, 18]
+     }
+   }]
+  },{
+    "category": "football",
+    "categoryName": "fname",
+    "categoryImage": "asd",
+    "products": [{
+      "name": "f1",
+      "image": "f1Image",
+      "video": "video",
+      "price": 649,
+      "offerPrice": 599,
+      "tag": "Hot Picks",
+      "description": "sdsdsdsdf",
+      "title": "asdasdasd",
+      "subtitle": "asdasdasd",
+      "slots": {
+        "2021-06-21" : [12, 13, 14],
+        "2021-06-20" : [19, 20, 21],
+        "2021-06-22" : [12, 17, 18]
+      }
+    },{
+      "name": "f2",
+      "image": "f2Image",
+      "price": 599,
+      "offerPrice": 549,
+      "tag": "Filling fast",
+      "description": "sdsdsdsdf",
+      "title": "asdasdasd",
+      "subtitle": "asdasdasd",
+      "slots": {
+        "2021-06-21" : [16, 17, 18],
+        "2021-06-20" : [19, 20, 21],
+        "2021-06-22" : [12, 17, 18]
+      }
+    }]
+   }]

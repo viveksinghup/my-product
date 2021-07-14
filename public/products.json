@@ -1,0 +1,105 @@
+[{
+  "product_category": "Kids Fitness",
+  "product_category_name": "Kids Fitness",
+  "product_cat_image_url": " ",
+  "product_category_id":"1",
+  "products":[{
+    "product_id": "KMKL01",
+    "product_name": "Interactive Online Fitness Sessions with Kleinetics Fitness",
+    "enrolled_qty": "100",
+    "product_price": "249",
+    "product_academy": "Abc Academy",
+    "discounted_price": "149",
+    "product_image_url": "https://picsum.photos/200/300",
+    "product_video_url": "https://youtu.be/HflttbV_8Io",
+    "product_tag": "Recommended",
+    "session_duration": "45 mins",
+    "product_description": "asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads ",
+    "product_disc": ["The program focuses on fitness games that help kids stay engaged and entertained. Diverse styles and disciplines",
+      "Gamified workouts",
+      "Functional Fitness",
+      "Dance",
+      "Fusion Yoga",
+      "HIIT and many more"
+    ],
+    "session_flow": [{
+      "title": "Warm up game ",
+      "time": "5 mins"
+    },{
+      "title": "Main workout ",
+      "time": "20 mins"
+    },{
+      "title": "Fitness Game ",
+      "time": "5 mins"
+    },{
+      "title": "Cool down ",
+      "time": "5 min"
+    }],
+    "product_benefits": [
+      "Will help achieve physical, mental & spiritual discipline. ",
+      "Strengthens core & muscles",
+      "Improves muscle flexibility",
+      "Builds endurance"
+    ],
+    "slots": {
+      "2021-07-01" : [7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 22, 23],
+      "2021-07-02" : [7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 22, 23],
+      "2021-07-03" : [7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 22, 23],
+      "2021-07-04" : [7, 8, 9, 10, 14, 15, 16, 18, 20, 22, 23],
+      "2021-07-05" : [7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 22, 23],
+      "2021-07-06" : [7, 8, 9, 10, 12, 13, 14, 15, 16,  20, 22, 23]
+    }
+  }]
+},{
+  "product_category": "Martial Arts",
+  "product_category_name": "Martial Arts",
+  "product_cat_image_url": " ",
+  "product_category_id":"2",
+  "products":[{
+    "product_id": "KMSD01",
+    "product_name": "Online Taekwondo Classes With Siddhakala Taekwondo Academy",
+    "enrolled_qty": "50",
+    "product_price": "149",
+    "product_academy": "Xyz Academy",
+    "discounted_price": "99",
+    "product_image_url": "https://picsum.photos/200/300",
+    "product_video_url": "https://youtu.be/HflttbV_8Io",
+    "product_tag": "Hot",
+    "session_duration": "60 mins",
+    "product_description": "asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads asdhfkjahs kjfhaskd fash fkhasjfjkasdfjkhakljfhlkadshfklhads ",
+    "product_disc": ["The program focuses on fitness games that help kids stay engaged and entertained. Diverse styles and disciplines",
+      "Gamified workouts",
+      "Functional Fitness",
+      "Dance",
+      "Fusion Yoga",
+      "HIIT and many more"
+    ],
+    "session_flow": [{
+      "title": "Warm up game ",
+      "time": "5 mins"
+    },{
+      "title": "Main workout ",
+      "time": "20 mins"
+    },{
+      "title": "Fitness Game ",
+      "time": "5 mins"
+    },{
+      "title": "Cool down ",
+      "time": "5 min"
+    }],
+    "product_benefits": [
+      "Will help achieve physical, mental & spiritual discipline. ",
+      "Strengthens core & muscles",
+      "Improves muscle flexibility",
+      "Builds endurance"
+    ],
+    "slots": {
+      "2021-07-01" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23],
+      "2021-07-02" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23],
+      "2021-07-03" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23],
+      "2021-07-04" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23],
+      "2021-07-05" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23],
+      "2021-07-06" : [7, 8, 9, 10, 12,13,14,15,16,18,20,22,23]
+    }
+  }]
+}]

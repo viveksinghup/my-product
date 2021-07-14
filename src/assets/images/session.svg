@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>class_black_24dp</title>
+    <g id="Coaching" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Course--Page---3" transform="translate(-16.000000, -503.000000)">
+            <g id="class_black_24dp" transform="translate(16.000000, 503.000000)">
+                <polygon id="Path" points="0 0 21 0 21 21 0 21"></polygon>
+                <path d="M15.25,2 L4.75,2 C3.7875,2 3,2.765 3,3.7 L3,17.3 C3,18.235 3.7875,19 4.75,19 L15.25,19 C16.2125,19 17,18.235 17,17.3 L17,3.7 C17,2.765 16.2125,2 15.25,2 Z M5,3 L9,3 L9,10.1233025 L7,7.875 L5,10.1233025 L5,3 Z" id="Shape" fill="#FF4E00" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
